@@ -4,4 +4,4 @@ def say_hello(name="Ruby Programmer")
   "Hello #{name}!"
 end 
 
-say_hello("Eden")
+say_hello("Kent Beck")
